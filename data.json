@@ -1,0 +1,59 @@
+{
+  "projects":
+            [
+              {
+                "id" : "0",
+                "project_name" : "Random Quote Generator",
+                "description" : "The Random Quote Generator is a simple quote generator that outputs a random quote from a set list after clicking the button on the page.",
+                "technologies" : "[JavaScript, HTML, CSS]", 
+                "live-link" : "tbd",
+                "github-link" : "https://github.com/acessna/random-quote-generator",
+                "img-urls" : "tbd"
+              },
+              {
+                "id" : "1",
+                "project_name" : "List Pagination and Filtering",
+                "description" : "In this project the code takes a list of students and puts them on pages ten at a time. The user is able click on the page numbers at the bottom of the page to go through the list of students.",
+                "technologies" : "[JavaScript, HTML, CSS]", 
+                "live-link" : "tbd",
+                "github-link" : "https://github.com/acessna/pagination-project",
+                "img-urls" : "tbd"
+              },
+              {
+                "id" : "2",
+                "project_name" : "Interactive Form",
+                "description" : "The interactive form is meant to display knowledge in creating a form, DOM manipulation, event handlers, and regular expressions and form validation.",
+                "technologies" : "[JavaScript, HTML, CSS]", 
+                "live-link" : "tbd",
+                "github-link" : "https://github.com/acessna/interactive-form",
+                "img-urls" : "tbd"
+              },
+              {
+                "id" : "3",
+                "project_name" : "Game Show App",
+                "description" : "The Game Show app is a simple game where the user attempts to guess the hidden, famous phrase. This app uses OOP for handling user interaction, game logic, and storing information.",
+                "technologies" : "[JavaScript, jQuery, HTML, CSS]", 
+                "live-link" : "tbd",
+                "github-link" : "https://github.com/acessna/game-show-app",
+                "img-urls" : "tbd"
+              },
+              {
+                "id" : "4",
+                "project_name" : "Employee Directory",
+                "description" : "This application was made to display knowledge of fetch, working with JSON files, promises, etc. The program generates 12 user cards based on data fetched from a user API. The JSON data is used to create the different users and their information. When you click on a user a module window is created to display more information on the user. When you click the 'X' the module is closed and the module elements are removed.",
+                "technologies" : "[JavaScript, jQuery, Git, JSON, HTML, CSS]", 
+                "live-link" : "tbd",
+                "github-link" : "https://github.com/acessna/public-api-requests",
+                "img-urls" : "tbd"
+              },
+              {
+                "id" : "5",
+                "project_name" : "Portfolio Site",
+                "description" : "Portfolio website made with Node, Express, Pug templates, etc.",
+                "technologies" : "[JavaScript, Node, Git, JSON, npm, Express, Pug]", 
+                "live-link" : "tbd",
+                "github-link" : "https://github.com/acessna/portfolio-express-site",
+                "img-urls" : "tbd"
+              }
+            ]
+}
