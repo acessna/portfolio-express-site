@@ -7,7 +7,7 @@
       "technologies": "[JavaScript, HTML, CSS]",
       "live_link": "https://acessna.github.io/random-quote-generator/",
       "github-link": "https://github.com/acessna/random-quote-generator",
-      "img_urls": "/static/public/images/RandomQuoteGen_MAIN.jpeg"
+      "img_urls": "/images/RandomQuoteGen_MAIN.jpg"
     },
     {
       "id": "1",
@@ -16,7 +16,7 @@
       "technologies": "[JavaScript, HTML, CSS]",
       "live_link": "https://acessna.github.io/pagination-project/",
       "github_link": "https://github.com/acessna/pagination-project",
-      "img_urls": "/static/images/Pagination_MAIN.jpeg"
+      "img_urls": "/images/Pagination_MAIN.jpg"
     },
     {
       "id": "2",
@@ -25,7 +25,7 @@
       "technologies": "[JavaScript, HTML, CSS]",
       "live_link": "https://acessna.github.io/interactive-form/",
       "github_link": "https://github.com/acessna/interactive-form",
-      "img_urls": "/static/public/images/Form_MAIN.jpeg"
+      "img_urls": "/images/Form_MAIN.jpg"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "technologies": "[JavaScript, jQuery, HTML, CSS]",
       "live_link": "https://acessna.github.io/game-show-app/",
       "github_link": "https://github.com/acessna/game-show-app",
-      "img_urls": "/static/public/images/Phrase_MAIN.jpeg"
+      "img_urls": "/images/Phrase_MAIN.jpg"
     },
     {
       "id": "4",
@@ -43,7 +43,7 @@
       "technologies": "[JavaScript, jQuery, Git, JSON, HTML, CSS]",
       "live_link": "https://acessna.github.io/public-api-requests/",
       "github_link": "https://github.com/acessna/public-api-requests",
-      "img_urls": "/static/images/Directory.jpeg"
+      "img_urls": "/images/Directory_MAIN.jpg"
     }
   ]
 }
