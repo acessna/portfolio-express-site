@@ -9,15 +9,20 @@ app.set('view engine', 'pug');
 
 
 app.get('/', (req, res) => {
-  res.render('index', { data} );
+  res.render('index', {data} );
 });
 
 app.get('/about', (req, res) => {
   res.render('about');
 });
 
-app.get('/projects', (req, res) => {
-  res.render('project', data);
+app.get('/projects/:id', (req, res) => {
+  data.projects.forEach(project => {
+    if(req.params.id === project.id){
+      res.render('project', {project})
+    }
+    
+  });
 });
 
 
