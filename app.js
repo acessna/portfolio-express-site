@@ -25,6 +25,20 @@ app.get('/projects/:id', (req, res) => {
   });
 });
 
+app.use((req, res, next) => {
+  const err = new Error("Looks like this page doesn't exist!");
+  err.status = 404;
+  next(err);
+});
+
+app.use((err, req, res, next) => {
+  res.locals.error = err;
+  res.status=(err.status);
+  console.log(err);
+  res.render('error');
+
+});
+
 
 
 
